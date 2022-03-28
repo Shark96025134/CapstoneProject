@@ -8,7 +8,7 @@
     }  
     a = str(input("::"))
 
-class A:
+    class A:
     
 #B
     
