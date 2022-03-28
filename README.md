@@ -1,19 +1,12 @@
 # CapstoneProject
    
-import datetime
-
-
-#print("TO - DO List")
-
-print("My List")
-
-k = 0
-
-arr = {
-
-}  
-
-a = str(input("::"))
+    import datetime
+    #print("TO - DO List")
+    print("My List")
+    k = 0
+    arr = {
+    }  
+    a = str(input("::"))
 
 class A:
     
